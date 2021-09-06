@@ -28,7 +28,23 @@ marquee
     width: 350px;
 }
 
-#sec4
+#Modal2
 {
-    background-color: aqua;
+    margin-top: 150px;
+}
+
+#MH
+{
+    height: 50px;
+}
+
+#ModalBuzz
+{
+    width: 250px;
+    margin-left: 150px;
+}
+
+#myModal
+{
+    margin-top: 150px;
 }
